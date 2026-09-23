@@ -1,0 +1,6 @@
+{
+  "name": "Google Merchandise Store",
+  "description": "The official-style Google Merchandise Store recreation featuring authentic apparel, drinkware, accessories, and collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
